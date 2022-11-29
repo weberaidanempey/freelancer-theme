@@ -2,10 +2,9 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: backgrounds.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: August 2016 to August 2021
+category: United States Marine Corps
+description: I served in the United States Marine Corps  as a Field Artillery Cannoneer, and then as a Field Artillery Section Chief, and after 5 years of faithful service I left to persue higher education.
 ---
